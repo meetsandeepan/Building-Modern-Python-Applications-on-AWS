@@ -1,4 +1,5 @@
 #  Building Modern Python Applications on AWS (COURSERA)
+[![pub package](https://img.shields.io/badge/dev-meetsandeepan-magenta.svg)]
 
 This is my solution to all the quizzes of AWS Fundamentals: Building Serverless Applications(Coursera) taught by Taught by Morgan, Seph, Jon, and Rick. After completing this course you will get a broad idea of AWS Fundamentals. Try to solve all the quizzes by yourself first, but if you get stuck somewhere then feel free to browse the repository.
 
